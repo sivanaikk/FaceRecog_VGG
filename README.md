@@ -20,3 +20,5 @@ It's take lot of Resources to train a model so, we use already trained weight to
 ### Fine Tuning
 
 In Fine Tuning the Convolutional Layers are not freezed and the objects we added to the pretrained model is again trained and some features are extracted based on the weight alredy the model have without starting random .
+
+![Fine_Tunning](FaceRecog_Transfer_learning/fine_tuning_keras_network_surgery.png)
